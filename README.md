@@ -1,5 +1,5 @@
 # Ísis
-Aplicação wev de suporte emocional, psicológico e de proteção para mulheres em situação de violência. O objetivo é reunir em um só lugar ferramentas de emergência, acolhimento, informação e reconstrução de vida, de forma segura e acolhedora.
+Aplicação web de suporte emocional, psicológico e de proteção para mulheres em situação de violência. O objetivo é reunir em um só lugar ferramentas de emergência, acolhimento, informação e reconstrução de vida, de forma segura e acolhedora.
 
 ##Como principais funcionalidades: \
 Botão de pânico - Pedido de ajuda rápido, com envio de localização para contatos de confiança e serviços de emergência. Também oferece atalho para o **180** (Central de Atendimento à Mulher, 24h, gratuita e sigilosa).\
